@@ -22,5 +22,12 @@ function sayHiToGrandma(string){
  } else {
   return "YES INDEED!"
 }
+
+function loveCheck(string){
+  if(string === "I love you, Grandma") {
+    return
+  }
+  
+}
 }
 
