@@ -25,9 +25,9 @@ function sayHiToGrandma(string){
 
 function loveCheck(string){
   if(string === "I love you, Grandma") {
-    return
+    return "I love you, too."
   }
-  
 }
+loveCheck()
 }
 
